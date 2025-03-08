@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Nic Dias. I am a PhD Candidate at the University of Pennsylvania. In May, I will become a post-doctoral fellow at Aarhus University, where I will be working on [Rune Slothuus's](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/) [PARTYOPINION](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/current-research/) project.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I want to understand how well democracy is working, as well as how it can work better. My dissertation examines how well citizens form policy opinions that align with their underlying values and interests. It challenges the long-held idea that citizens' policy opinions are generally unprincipled. Instead, I argue that citizens' opinions appear less principled than they are, due to flaws in how scholars have evaluated citizens' opinions. In other work---which you can find on my [publications](https://niccdias.github.io/publications/) page---I have examined the causes and consequences of polarization, as well as how it can be addressed.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you would like to contact me, send me an email me at [niccdias@sas.upenn.edu](mailto:niccdias@sas.upenn.edu).
