@@ -14,7 +14,7 @@ profile:
     <p align="center">8000 Aarhus, Denmark</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Nic Dias. I am a PhD Candidate at the University of Pennsylvania. In May, I will become a post-doctoral fellow at Aarhus University, where I will be working on [Rune Slothuus's](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/) [PARTYOPINION](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/current-research/) project.
+Hi! My name is Nic Dias, and I am a PhD Candidate at the University of Pennsylvania. In May, I will become a post-doctoral fellow at Aarhus University, where I will be working on [Rune Slothuus's](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/) [PARTYOPINION](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/current-research/) project.
 
-I want to understand how well democracy is working, as well as how it can work better. My dissertation examines how well citizens form policy opinions that align with their underlying values and interests. It challenges the long-held idea that citizens' policy opinions are generally unprincipled. Instead, I argue that citizens' opinions appear less principled than they are, due to flaws in how scholars have evaluated citizens' opinions. In other work---which you can find on my [publications](https://niccdias.github.io/publications/) page---I have examined the causes and consequences of polarization, as well as how it can be addressed.
+I want to understand how well democracy is working, as well as how it can work better. My dissertation examines how well citizens form policy opinions that align with their underlying values and interests. It challenges the long-held idea that citizens' policy opinions are generally unprincipled. Instead, I argue that citizens' opinions appear less principled than they are, due to flaws in how scholars have evaluated citizens' opinions. In other work --- which you can find on my [publications](https://niccdias.github.io/publications/) page --- I have studied the causes and consequences of polarization, as well as how polarization can be addressed.
 
 If you would like to contact me, send me an email me at [niccdias@sas.upenn.edu](mailto:niccdias@sas.upenn.edu).
