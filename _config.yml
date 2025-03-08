@@ -50,7 +50,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
@@ -173,8 +173,9 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  - _pages/blog.md
+  # Blog
   - _posts/
+  - _pages/blog.md  
   - _pages/books.md
   - _pages/dropdown.md
   - _pages/news.md
