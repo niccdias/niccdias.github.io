@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [PhD Candidate](https://niccdias.com/) in Political Science and Communication at the University of Pennsylvania
+subtitle: <a href="https://niccdias.com/">PhD Candidate</a> in Political Science and Communication at the University of Pennsylvania
 
 profile:
   align: right
