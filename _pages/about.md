@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Political Science and Communication at the<a href="https://niccdias.com/">University of Pennsylvania</a>
+subtitle: [PhD Candidate](https://niccdias.com/) in Political Science and Communication at the University of Pennsylvania
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p align="center" >Building 1341, Room 112</p>
+    <p align="center">Bartholins Allé 7</p>
+    <p align="center">8000 Aarhus, Denmark</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
