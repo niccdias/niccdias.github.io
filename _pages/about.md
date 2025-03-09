@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello there! My name is Nic Dias, and I am a PhD Candidate at UPenn. In May 2025, I will become a post-doc at Aarhus University, where I will be working on the [PARTYOPINION](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/current-research/) project under [Rune Slothuus](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/).
+Hello there! My name is Nic Dias, and I am a PhD candidate at UPenn. In May 2025, I will become a post-doc at Aarhus University, where I will be working on the [PARTYOPINION](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/current-research/) project under [Rune Slothuus](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/).
 
 My research centers on three interrelated questions: Are citizens good custodians of democracy? Why or why not? And how could democracy work better? My dissertation challenges the long-held idea that citizens' policy opinions are often "unprincipled" --- that is, inconsistent with their underlying values and interests. Instead, I argue that citizens' opinions appear less principled than they are, due to flaws in how scholars have evaluated citizens' opinions. In other work, I have studied polarization's causes, consequences, and potential remedies.
 
