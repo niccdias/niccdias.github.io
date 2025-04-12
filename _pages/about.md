@@ -30,4 +30,4 @@ My research is motivated by three interrelated questions: Are citizens good cust
 
 I love teaching, and I care a lot about my students. In Fall 2025, I will teach a seminar at Aarhus University on why millions of Americans voted for Donald Trump. I have led seminars on [American politics](https://live-sas-www-polisci.pantheon.sas.upenn.edu/node/8993) and [data science](https://live-sas-www-polisci.pantheon.sas.upenn.edu/node/9007). Before pursuing my PhD, I taught journalists how to monitor social media for misinformation, check the authenticity of claims and images, and write effective corrections. If you are a former student of mine, please say hello!
 
-If you want to contact me, send an email to [niccdias@sas.upenn.edu](mailto:niccdias@sas.upenn.edu). I would be happy to hear from you.
+If you want to contact me, send an email to [niccdias@ps.au.dk](mailto:niccdias@ps.au.dk). I would be happy to hear from you.
