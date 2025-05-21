@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow at Aarhus University
+subtitle: Postdoctoral Fellow at Aarhus University<br><hr><br>
 
 profile:
   align: right
