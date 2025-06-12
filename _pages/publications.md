@@ -17,7 +17,7 @@ nav_order: 1
 
 {% bibliography -f articles %}
 
-<h1>working papers (available upon request)</h1>
+<h1>working papers</h1>
 
 {% bibliography -f unpublished %}
 
