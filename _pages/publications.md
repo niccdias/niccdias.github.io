@@ -15,10 +15,10 @@ nav_order: 1
 
 <h1>peer-reviewed articles</h1>
 
-{% bibliography -f ARTICLE %}
+{% bibliography -f article %}
 
 <h1>working papers (all available upon request)</h1>
 
-{% bibliography -f UNPUBLISHED %}
+{% bibliography -f unpublished %}
 
 </div>
