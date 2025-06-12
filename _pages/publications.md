@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: publications and working papers in reversed chronological order.
+description: peer-reviewed articles and working papers in reversed chronological order.
 nav: true
 nav_order: 1
 ---
@@ -17,7 +17,7 @@ nav_order: 1
 
 {% bibliography -f ARTICLE %}
 
-<h1>working papers</h1>
+<h1>working papers (all available upon request)</h1>
 
 {% bibliography -f UNPUBLISHED %}
 
