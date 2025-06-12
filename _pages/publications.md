@@ -15,7 +15,7 @@ nav_order: 1
 
 <h1>peer-reviewed articles</h1>
 
-{% bibliography -f article %}
+{% bibliography -f articles %}
 
 <h1>working papers (all available upon request)</h1>
 
