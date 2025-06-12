@@ -13,6 +13,12 @@ nav_order: 1
 
 <div class="publications">
 
-{% bibliography %}
+<h1>peer-reviewed articles</h1>
+
+{% bibliography -f article %}
+
+<h1>working papers</h1>
+
+{% bibliography -f unpublished %}
 
 </div>
