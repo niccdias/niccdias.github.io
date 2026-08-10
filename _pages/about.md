@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Nic! I'm a postdoc at Aarhus University, where I work on the [PARTYOPINION](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/current-research/) project under [Rune Slothuus](https://ps.au.dk/en/research/researcher-websites/rune-slothuus/). I have a PhD in Political Science and Communication from the University of Pennsylvania. In January 2027, I will join Stony Brook University's Department of Political Science as an assistant professor.
+Hi, I'm Nic! I'm a postdoc at Aarhus University, where I work on the [PARTYOPINION](https://cordis.europa.eu/project/id/865956) project under [Rune Slothuus](https://ps.au.dk/en/contact/staff/show/person/slothuus@ps.au.dk). I have a PhD in Political Science and Communication from the University of Pennsylvania. In January 2027, I will join Stony Brook University's Department of Political Science as an assistant professor.
 
 My research asks three questions: Are citizens good custodians of democracy? What psychological and structural forces shape their success or failure in that role? And what interventions would help democracy work better? My dissertation challenged the common wisdom that citizens' opinions are often "unprincipled" --- that is, inconsistent with their underlying values. Instead, I argued that citizens' opinions appear less principled than they are, due to flaws in how scholars have evaluated them. In other work, I have studied polarization's causes, consequences, and remedies.
 
