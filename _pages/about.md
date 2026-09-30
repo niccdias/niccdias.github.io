@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow at Aarhus University<br>Visiting Researcher at Stony Brook University<br><hr><br>
+subtitle: Postdoctoral Fellow at Aarhus University<br>Visiting Research Assistant Professor at Stony Brook University<br><hr><br>
 
 profile:
   align: right
